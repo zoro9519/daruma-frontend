@@ -78,4 +78,4 @@ This software uses the following packages:
 
 ## Contact
 
-> GitHub - [@AdrianLopezGue](https://github.com/zoro9519) 
+> GitHub - [@zoro9519](https://github.com/zoro9519) 
