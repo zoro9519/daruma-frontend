@@ -78,5 +78,4 @@ This software uses the following packages:
 
 ## Contact
 
-> GitHub - [@AdrianLopezGue](https://github.com/AdrianLopezGue) 
-> LinkedIn - [Adrián López Guerrero](https://www.linkedin.com/in/adrianlopezgue/)
+> GitHub - [@AdrianLopezGue](https://github.com/zoro9519) 
